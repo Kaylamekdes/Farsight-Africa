@@ -1,0 +1,18 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Secrets / env
+.env
+.env.*
+# Editors / tooling
+.vscode/
+.idea/
+.claude/
+node_modules/
+*.log
